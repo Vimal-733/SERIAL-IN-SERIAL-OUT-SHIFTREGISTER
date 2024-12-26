@@ -25,18 +25,33 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **Procedure**
 
-/* write all the steps invloved */
+Step 1: Open Quartus II in your laptop.
+
+Step 2: Write code to implement SR flipflop using Verilog and validating their functionality using their functional tables.
+
+Step 3: Run compilation to check for errors.
+
+Step 4: Open waveform output and load input values.
+
+Step 5: Run simulation to get the output.
+
+Step 6: Open in RTL viewers to get RTL diagram output.
 
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:
+Developed by:A.VIMAL
+RegisterNumber:24005922
 
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+![Screenshot 2024-12-26 211547](https://github.com/user-attachments/assets/74edc67e-f30b-405d-a919-9b7ceb2ca56a)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![Screenshot (17)](https://github.com/user-attachments/assets/cb74a2a8-f1f6-4a83-9f87-b5ad69d0ca48)
+
 
 **RESULTS**
+The observation of the simulation results and confirm the successful execution of the program.
